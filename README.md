@@ -1,4 +1,6 @@
-## One light UI theme
+## AB One light UI theme
+
+Forked from Atom and customized from Andreas Bissinger.
 
 A light UI theme that adjusts to most Syntax themes.
 

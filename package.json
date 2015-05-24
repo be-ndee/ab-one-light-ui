@@ -1,14 +1,14 @@
 {
-  "name": "one-light-ui",
+  "name": "ab-one-light-ui",
   "theme": "ui",
   "version": "0.8.2",
-  "description": "Atom One light UI theme",
+  "description": "Atom One light UI theme customized by be-ndee",
   "keywords": [
     "light",
     "adaptive",
     "ui"
   ],
-  "repository": "https://github.com/atom/one-light-ui.git",
+  "repository": "https://github.com/be-ndee/ab-one-light-ui.git",
   "license": "MIT",
   "main": "lib/settings",
   "engines": {
